@@ -1,0 +1,43 @@
+.rasmcha{
+    background-image: url(../img/niki.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.zor{
+    transition: .2s linear;
+}
+
+.zor:hover{
+    cursor: pointer;
+    background-color: yellow;
+    transition: .2s linear;
+    border-radius: 3px;
+    border-width: 30px;
+}
+
+.btn:hover{
+  transition: .2s linear;
+   background-color: white;
+   cursor: pointer;
+}
+
+.btn{
+    border-radius: 6px;
+}
+.img{
+    z-index: -1;
+    position: absolute;
+}
+
+
+.lol{
+    position: absolute;
+    
+}
+
+.im{
+    position: relative;
+}
